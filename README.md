@@ -1,1 +1,0 @@
-This is my coursework for the Coursera Course [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)
