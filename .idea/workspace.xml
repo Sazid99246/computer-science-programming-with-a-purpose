@@ -34,32 +34,47 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.assignment2.BandMatrix.executor": "Run",
-    "Application.assignment2.GeneralizedHarmonic.executor": "Run",
-    "Application.assignment2.RandomWalker.executor": "Run",
-    "Application.assignment2.RandomWalkers.executor": "Run",
-    "Application.assignment3.Birthday.executor": "Run",
-    "Application.assignment3.DiscreteDistribution.executor": "Run",
-    "Application.assignment3.ThueMorse.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Checkerboard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShannonEntropy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment2.BandMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment2.GeneralizedHarmonic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment2.RandomWalker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment2.RandomWalkers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment3.Birthday.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment3.DiscreteDistribution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment3.Minesweeper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment3.ThueMorse.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\computer-science-programming-with-a-purpose\src\assignment1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.assignment3.Birthday">
+  <component name="RunManager" selected="Application.Checkerboard">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Checkerboard" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment4.Checkerboard" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShannonEntropy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment4.ShannonEntropy" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="fair-coin.txt" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -99,6 +114,12 @@
       <option name="MAIN_CLASS_NAME" value="assignment3.DiscreteDistribution" />
       <module name="computer-science-programming-with-a-purpose" />
       <option name="PROGRAM_PARAMETERS" value="100 301 176 125 97 79 67 58 51 46" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment3.Minesweeper" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment3.Minesweeper" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="9 9 10" />
       <method v="2" />
     </configuration>
     <configuration name="assignment3.ThueMorse" type="Application" factoryName="Application">
