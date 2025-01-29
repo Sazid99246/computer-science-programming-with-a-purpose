@@ -36,7 +36,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ActivationFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AudioCollage.executor&quot;: &quot;Run&quot;,
     &quot;Application.Checkerboard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Divisors.executor&quot;: &quot;Run&quot;,
     &quot;Application.ShannonEntropy.executor&quot;: &quot;Run&quot;,
     &quot;Application.assignment2.BandMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.assignment2.GeneralizedHarmonic.executor&quot;: &quot;Run&quot;,
@@ -48,7 +51,7 @@
     &quot;Application.assignment3.ThueMorse.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
@@ -56,18 +59,36 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\computer-science-programming-with-a-purpose\src\assignment5" />
       <recent name="D:\computer-science-programming-with-a-purpose\src\assignment1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Checkerboard">
+  <component name="RunManager" selected="Application.AudioCollage">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="ActivationFunction" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ActivationFunction" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="-0.5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AudioCollage" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="AudioCollage" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <method v="2" />
     </configuration>
     <configuration name="Checkerboard" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="assignment4.Checkerboard" />
       <module name="computer-science-programming-with-a-purpose" />
       <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Divisors" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Divisors" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="987 610" />
       <method v="2" />
     </configuration>
     <configuration name="ShannonEntropy" type="Application" factoryName="Application">
