@@ -361,7 +361,7 @@
                          |DiscreteDistribution|ThueMorse|Birthday|
                          |assignment4.ShannonEntropy|assignment4.Checkerboard|assignment4.WorldMap|
                          |ActivationFunction|Divisors|AudioCollage|
-                         |TrinomialBrute|TrinomialDP|RevesPuzzle|
+                         |assignment6.TrinomialBrute|assignment6.TrinomialDP|assignment6.RevesPuzzle|
                          |Inversions|Ramanujan|MaximumSquareSubmatrix|
                          |Huntingtons|KernelFilter|
                          |ColorHSB|Clock|Pedometer|

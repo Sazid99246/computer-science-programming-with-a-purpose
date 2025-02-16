@@ -36,11 +36,16 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ABC.executor&quot;: &quot;Run&quot;,
     &quot;Application.ActivationFunction.executor&quot;: &quot;Run&quot;,
     &quot;Application.AudioCollage.executor&quot;: &quot;Run&quot;,
     &quot;Application.Checkerboard.executor&quot;: &quot;Run&quot;,
     &quot;Application.Divisors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecursiveSquares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevesPuzzle.executor&quot;: &quot;Run&quot;,
     &quot;Application.ShannonEntropy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrinomialBrute.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrinomialDP.executor&quot;: &quot;Run&quot;,
     &quot;Application.assignment2.BandMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.assignment2.GeneralizedHarmonic.executor&quot;: &quot;Run&quot;,
     &quot;Application.assignment2.RandomWalker.executor&quot;: &quot;Run&quot;,
@@ -63,10 +68,15 @@
       <recent name="D:\computer-science-programming-with-a-purpose\src\assignment1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AudioCollage">
+  <component name="RunManager" selected="Application.TrinomialDP">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="ABC" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ABC" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <method v="2" />
     </configuration>
     <configuration name="ActivationFunction" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ActivationFunction" />
@@ -91,10 +101,34 @@
       <option name="PROGRAM_PARAMETERS" value="987 610" />
       <method v="2" />
     </configuration>
+    <configuration name="RecursiveSquares" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment6.RecursiveSquares" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RevesPuzzle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment6.RevesPuzzle" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
     <configuration name="ShannonEntropy" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="assignment4.ShannonEntropy" />
       <module name="computer-science-programming-with-a-purpose" />
       <option name="PROGRAM_PARAMETERS" value="fair-coin.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrinomialBrute" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment6.TrinomialBrute" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="3 0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrinomialDP" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment6.TrinomialDP" />
+      <module name="computer-science-programming-with-a-purpose" />
+      <option name="PROGRAM_PARAMETERS" value="3 9" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
